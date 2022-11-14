@@ -23,3 +23,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cv-leao&layout=compact&count_private=true&theme=tokyonight"/>
 </div>
 
+##
+
+<img src="https://media.tenor.com/hEOM8E4epvgAAAAC/hahaha-thats-all-folks.gif" alt="image with text: Thats All Folks!" align="left" width="20%">
