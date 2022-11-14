@@ -19,7 +19,7 @@
 
 <div>
   <a href="https://github.com/cv-leao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cv-leao&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cv-leao&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cv-leao&layout=compact&count_private=true&theme=tokyonight"/>
 </div>
 
