@@ -1,11 +1,11 @@
 ### Hi! I'm Carlos Victor 👋
 
-<h3>
+<h4>
   📚 I'm currently a student of Systems Analysis and Development at IFPI, Campus Picos!
-</h3>
-<h3>
+</h4>
+<h4>
   🏡 Living in Picos-Pi, Brazil!
-</h3>
+</h4>
 
 ##
 
