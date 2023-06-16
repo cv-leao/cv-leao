@@ -4,7 +4,7 @@
   📚 I'm currently a student of Systems Analysis and Development at IFPI - Campus Picos!
 </h4>
 <h4>
-  🏡 Living in Picos-Pi, Brazil!
+  🏡 Living in Picos-PI, Brazil!
 </h4>
 
 ##
